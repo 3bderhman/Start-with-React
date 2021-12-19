@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Start-with-React/static/css/main.779dbe97.chunk.css",
+    "main.js": "/Start-with-React/static/js/main.5e4afaf5.chunk.js",
+    "main.js.map": "/Start-with-React/static/js/main.5e4afaf5.chunk.js.map",
+    "runtime-main.js": "/Start-with-React/static/js/runtime-main.6a9a6c97.js",
+    "runtime-main.js.map": "/Start-with-React/static/js/runtime-main.6a9a6c97.js.map",
+    "static/css/2.602b270e.chunk.css": "/Start-with-React/static/css/2.602b270e.chunk.css",
+    "static/js/2.5a86a74e.chunk.js": "/Start-with-React/static/js/2.5a86a74e.chunk.js",
+    "static/js/2.5a86a74e.chunk.js.map": "/Start-with-React/static/js/2.5a86a74e.chunk.js.map",
+    "index.html": "/Start-with-React/index.html",
+    "static/css/2.602b270e.chunk.css.map": "/Start-with-React/static/css/2.602b270e.chunk.css.map",
+    "static/css/main.779dbe97.chunk.css.map": "/Start-with-React/static/css/main.779dbe97.chunk.css.map",
+    "static/js/2.5a86a74e.chunk.js.LICENSE.txt": "/Start-with-React/static/js/2.5a86a74e.chunk.js.LICENSE.txt",
+    "static/media/avataaars (1).0f323cfd.svg": "/Start-with-React/static/media/avataaars (1).0f323cfd.svg",
+    "static/media/cabin.png": "/Start-with-React/static/media/cabin.44173302.png",
+    "static/media/cake.png": "/Start-with-React/static/media/cake.65544730.png",
+    "static/media/circus.png": "/Start-with-React/static/media/circus.494a4a91.png",
+    "static/media/all.min.css": "/Start-with-React/static/media/fa-solid-900.eeccf4f6.woff",
+    "static/media/game.png": "/Start-with-React/static/media/game.a940b57a.png",
+    "static/media/safe.png": "/Start-with-React/static/media/safe.01792c0b.png",
+    "static/media/submarine.png": "/Start-with-React/static/media/submarine.48c9704c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a9a6c97.js",
+    "static/css/2.602b270e.chunk.css",
+    "static/js/2.5a86a74e.chunk.js",
+    "static/css/main.779dbe97.chunk.css",
+    "static/js/main.5e4afaf5.chunk.js"
+  ]
+}
