@@ -9,7 +9,7 @@ import './index.css'
 
 ReactDOM.render(
   <React.StrictMode>
-      <BrowserRouter>
+      <BrowserRouter basedname='/#/'>
         <App />
       </BrowserRouter>
   </React.StrictMode>,

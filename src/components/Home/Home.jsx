@@ -15,8 +15,7 @@ export default class Home extends Component {
                                 <div className="icon"><i className="fas fa-star fa-2x"></i></div>
                                 <div className="line"></div>
                             </div>
-                            <p className="fs-4 mt-3">Graphic Artist - Web Designer - Illustrator</p>
-
+                            <p className="fs-4 mt-3">Graphic Artist - Web Designer - Illustrator</p>~
                         </div>
                     </div>
                 </section>
